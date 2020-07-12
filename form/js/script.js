@@ -53,6 +53,9 @@ function render() {
     function deleteName() {
       globalNames.splice(index, 1);
       render();
+      setTimeout(() => {
+        alert('Successfuly deleted!');
+      }, 10);
     }
     var button = document.createElement('button');
     button.classList.add('deleteButton');
