@@ -1,2 +1,2 @@
-# CRUD-Javascript
-Crud criado usando somente html 5, css 3 e Javascript, sem nenhuma framework.
+# Responsive CRUD with Javascript
+Crud created using Html 5, Css 3 and Javascript, no frameworks used, using SPA as design pattern.
